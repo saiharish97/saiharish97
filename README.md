@@ -9,6 +9,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiharish97) 
 
+## Recent Publications
+
+1. **Artificial intelligence based air conditioner energy saving using a novel preference map**  
+   *Ramasamy Kannan, Manasij Sur Roy, Pathuri Sai Harish*  
+   _IEEE Access, Vol. 8, pp. 206622-206637, 2020_  
+   [Publisher: IEEE](https://ieeexplore.ieee.org/)  
+   - Description: This paper presents an AI-based approach to energy saving in air conditioning using a novel preference map.
+
+2. **Device interaction graph: directed decision graph for settings auto-completion**  
+   *Ramasamy Kannan, Pathuri Sai Harish, Deepak Kumar*  
+   _IEEE Access, Vol. 9, pp. 4726-4737, 2020_  
+   [Publisher: IEEE](https://ieeexplore.ieee.org/)  
+   - Description: This research introduces the Device Interaction Graph, a directed decision graph for settings auto-completion, enhancing user interaction with smart devices.
+
 ## 🛠️ Languages and Tools
 
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
