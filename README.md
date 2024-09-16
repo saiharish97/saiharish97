@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Sai Harish Pathuri
 
 **Software Developer and Data Scientist**
